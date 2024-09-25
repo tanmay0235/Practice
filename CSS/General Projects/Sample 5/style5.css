@@ -1,0 +1,10 @@
+.item{
+    border: 1px solid;
+    margin: 10px;
+    padding: 10px;
+
+}
+.main{
+    display: flex;
+    justify-content: center;
+}

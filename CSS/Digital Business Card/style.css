@@ -1,0 +1,27 @@
+.img{
+    width: 200px;
+}
+.Main-card{
+    display: flex;
+    width: 400px;
+    margin: 10px auto;
+    padding: 20px;
+    justify-content:space-around;
+    text-align: center;
+    text-emphasis-color: #2b2839;
+    border-bottom: 10px blue solid;
+    background-color: #d8cefe;
+
+}
+.dotted-border{
+    border: 1px blue dotted;
+}
+body{
+    margin: 20px;
+}
+.Info-card{
+    margin-top: 19px;
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

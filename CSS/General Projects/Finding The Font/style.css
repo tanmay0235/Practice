@@ -1,0 +1,7 @@
+@font-face {
+    font-family:ComebackHome;
+    src: url(CombackHomeRegular-jEMd9.ttf);
+}
+h1{
+    font-family: ComebackHome;
+}

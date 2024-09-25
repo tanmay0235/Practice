@@ -1,0 +1,29 @@
+.btn{
+    border: none;
+    background-color: black;
+    color: white;
+    padding: 1em 1.5em;
+
+}
+.wrapper{
+    background: linear-gradient(115deg,red,yellow,green,blue
+    );
+    padding: 2px;
+}
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+html,body{
+    background-color: black;
+    
+}
+.wrapper:hover{
+    background: linear-gradient(115deg,blue,green,yellow,red );
+}
+.btn:hover{
+    color: antiquewhite;
+    padding: 1.1em 1.6em;
+}

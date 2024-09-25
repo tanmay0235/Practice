@@ -1,0 +1,77 @@
+body{
+    font-family: "Happy Monkey", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    background-color: #a2d2ff;
+    color: #ffffff;
+}
+h1,h2,h3,h4,p{
+    text-shadow: 0px 0px 1px black;
+
+}
+#bday-date{
+    background: #EFB0C9;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin: 0;
+}
+#bday-age{
+    background: #EFB0C9;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+#img{
+    width: 200px;
+    border: 5PX #EFB0C9 SOLID;
+    border-radius: 150px 150px ;
+    height: 200px; 
+}
+
+#Header{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+
+
+}
+.img{
+    width: 400px;
+    height: 400px;
+    border: #EFB0C9 solid 6px;
+    border-radius: 10px;
+    background-image:url(OIP.jpeg) ;
+    background-size: cover;
+}
+#img1:hover{
+    background: url(birthday-happy-birthday.gif);
+    background-size: cover;
+
+}
+#gift-section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+
+}
+#happy{
+    margin-bottom: 0px;
+}
+#hover{
+    margin-top: 5px;
+}
+#people-reaction{
+   display: flex;
+   flex-direction:column ;
+   justify-content: center;
+   align-items: center;
+}
+
+
+#img2:hover{
+    background-image: url(happy-pleased.gif);
+    background-size: cover;
+}
